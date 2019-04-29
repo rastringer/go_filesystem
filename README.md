@@ -30,4 +30,4 @@ To run using the Docker image, type
 docker build -t mailgo_hw1
 ```
 
-Это задание для отличного курса [Разработка веб-сервисов на Go - основы языка] (https://www.coursera.org/learn/golang-webservices-1/home/welcome) от Mail.Ru на платформе Coursera
+Это задание для отличного курса [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1/home/welcome) от Mail.Ru на платформе Coursera
