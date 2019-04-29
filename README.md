@@ -1,7 +1,8 @@
 # go_filesystem
 Directory tree written in Go
 
-![File system](example.PNG)
+![]<img src="example.PNG" alt="example" height="500"/>
+
 
 To run the project locally, download Go and have the $GO_PATH set up. 
 
