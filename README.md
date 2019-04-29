@@ -1,6 +1,8 @@
 # go_filesystem
 Directory tree written in Go
 
+![File system](example.PNG)
+
 To run the project locally, download Go and have the $GO_PATH set up. 
 
 cd into the project folder and try the tests:
