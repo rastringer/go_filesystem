@@ -1,5 +1,5 @@
 # go_filesystem
-Directory tree written in Go
+Directory tree written in Go / Утилита tree на Go
 
 ![]<img src="example.PNG" alt="example" height="500"/>
 
@@ -29,3 +29,5 @@ To run using the Docker image, type
 ```
 docker build -t mailgo_hw1
 ```
+
+Это задание для отличного курса [Разработка веб-сервисов на Go - основы языка] (https://www.coursera.org/learn/golang-webservices-1/home/welcome) от Mail.Ru на платформе Coursera
